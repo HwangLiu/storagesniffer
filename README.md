@@ -1,2 +1,2 @@
-# storagesniffer
+# StorageSniffer
 Mush item sharing tool
