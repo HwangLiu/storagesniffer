@@ -2,6 +2,9 @@
 Mush item sharing tool.
 You need Tampermonkey or Greasmonkey extension installed first (depending on your browser).
 
+# Download & Install
+<a href="https://github.com/HwangLiu/storagesniffer/raw/master/StorageSniffer_1.1.user.js"> Storage Sniffer 1.1 </a>
+
 I'd like to release this Mush extention with full functionality i have in mind, but Mush is going to die in a month, so Version 1.0 has only basic features.
 Storage Sniffer collects items from the shelves and shares the list with other players.
 Personal or hidden items won't be displayed.
