@@ -1,2 +1,14 @@
 # StorageSniffer
-Mush item sharing tool
+Mush item sharing tool.
+You need Tampermonkey or Greasmonkey extension installed first (depending on your browser).
+
+I'd like to release this Mush extention with full functionality i have in mind, but Mush is going to die in a month, so Version 1.0 has only basic features.
+Storage Sniffer collects items from the shelves and shares the list with other players.
+Personal or hidden items won't be displayed.
+Spored food - unknown, i couldn't check if Storage Sniffer shares infection status of the food, so you better not share your spored food with others. I'll check that when i become a mush. Or i won't, because of the game is going to close.
+
+Simple to use:
+1) On a new ship expand menu << and press New to generate a new ship ID.
+2) Share this ship ID in chat with other players.
+3) If you are the one of "other players", copy Ship ID and insert it into the iput field and press Add button.
+4) Now you can share items with others and check item location in Storage menu (bag icon button).
