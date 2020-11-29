@@ -1,6 +1,6 @@
 # StorageSniffer
 Mush item sharing tool.
-You need Tampermonkey or Greasmonkey extension installed first (depending on your browser).
+You need Tampermonkey extension installed first. Tested on Tampermonkey for Chrome and Opera - both had no issues. Greasemonkey for Firefox doesn't work with this script, but you probably don't use it for mush, because Ctrl+W doesn't work with it for the same reason (bugged style interpretation).
 
 # Download & Install
 <a href="https://github.com/HwangLiu/storagesniffer/raw/main/StorageSniffer_1.1.user.js"> Storage Sniffer 1.1 </a>
