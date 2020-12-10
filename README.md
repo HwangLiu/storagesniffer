@@ -15,3 +15,5 @@ Simple to use:
 2) Share this ship ID in chat with other players.
 3) If you are one of the "other players", copy Ship ID and insert it into the input field and press Add button.
 4) Now you can share items with others and check item location in Storage menu (bag icon button).
+
+Reported issues: Avast antivirus may block the script.
